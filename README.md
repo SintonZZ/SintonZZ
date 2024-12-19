@@ -7,6 +7,10 @@
 ## ✨ Technologies 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0078D4?style=flat&logoColor=white) ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-2E8B57?style=flat&logoColor=white)
 
+## 💬 Blogs
+[![知乎](https://img.shields.io/badge/ZhiHu-知乎-0084FF?style=flat)](https://www.zhihu.com/people/you-shi-hou-zz)
+
+
 <!--
 **SintonZZ/SintonZZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
