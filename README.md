@@ -1,5 +1,5 @@
 ## Hi, nice to see you😄
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SintonZZ)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SintonZZ)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## 🌱 Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
